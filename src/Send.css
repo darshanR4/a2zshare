@@ -1,0 +1,13 @@
+.Contentbox{
+    height: 77vh;
+    width: 540px;
+    background-color: blue;
+    justify-content: center;
+    margin-top: 67px;
+    padding-top: 35px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px;
+}

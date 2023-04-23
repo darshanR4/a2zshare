@@ -1,0 +1,13 @@
+.ShareContentbox{
+    height: 75vh;
+    width: 27vw;
+    border: 20px;
+    justify-content: center;
+    margin-top: 75px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px;
+}
